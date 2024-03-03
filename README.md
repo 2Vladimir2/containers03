@@ -25,6 +25,9 @@
 
 *Что вы видите?*
 *<img width="1440" alt="image" src="https://github.com/2Vladimir2/containers03/assets/159247721/4968db73-88a4-4e6f-9cdf-f0c136b8c9c5">*
+
 *Выполните следующие команды:*
+*ls -l /var/www/html/*
+*echo '<h1>Hello, World!</h1>' > /var/www/html/index.html*
 
 
