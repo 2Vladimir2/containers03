@@ -17,4 +17,5 @@ docker run -ti -p 8000:80 --name containers03 ubuntu bash
 apt update
 apt install apache2 -y
 service apache2 start
-Откройте браузер и введите в адресной строке http://localhost:8000. Что вы видите?*
+Откройте браузер и введите в адресной строке http://localhost:8000. *
+*Что вы видите?*
