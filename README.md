@@ -9,14 +9,15 @@
 
 Создайте в папке containers03 файл README.md который содержать пошаговое выполнение проекта. Описание проекта должно содержать:*
 ## **Запуск и тестирование**
-*Откройте терминал в папке containers03 и выполните команду:
+*Откройте терминал в папке containers03 и выполните команду:*
 
-docker run -ti -p 8000:80 --name containers03 ubuntu bash
+*docker run -ti -p 8000:80 --name containers03 ubuntu bash
 В открывшемся окне выполните следующие команды и объясните их назначение:
 
 apt update
 apt install apache2 -y
-service apache2 start
-Откройте браузер и введите в адресной строке http://localhost:8000.*
+service apache2 start*
+
+*Откройте браузер и введите в адресной строке http://localhost:8000.*
 
 *Что вы видите?*
