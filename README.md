@@ -25,4 +25,6 @@
 
 *Что вы видите?*
 *<img width="1440" alt="image" src="https://github.com/2Vladimir2/containers03/assets/159247721/4968db73-88a4-4e6f-9cdf-f0c136b8c9c5">*
+*Выполните следующие команды:*
+
 
