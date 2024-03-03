@@ -18,4 +18,5 @@ apt update
 apt install apache2 -y
 service apache2 start
 Откройте браузер и введите в адресной строке http://localhost:8000.*
+
 *Что вы видите?*
